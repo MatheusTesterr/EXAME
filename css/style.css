@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: blue;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th {
+    background-color: #ccc;
+    font-weight: bold;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
